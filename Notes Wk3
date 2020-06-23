@@ -1,0 +1,8 @@
+1. Modal Components => https://getbootstrap.com/docs/4.5/components/modal/
+2. Button Components => https://getbootstrap.com/docs/4.5/components/button-group/
+3. Jumbotron => https://getbootstrap.com/docs/4.5/components/jumbotron/
+
+
+JS for Blocking the Date: 
+    let today = new Date().toISOString().split('T')[0]; document.querySelector("#calendar").setAttribute('min', today);
+

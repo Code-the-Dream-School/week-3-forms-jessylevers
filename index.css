@@ -2,3 +2,7 @@ body{
   margin: 0;
   padding: 0;
 }
+
+.email-img{
+  max-width: 40px;;
+}
