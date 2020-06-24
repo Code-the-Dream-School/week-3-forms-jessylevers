@@ -6,3 +6,8 @@
 JS for Blocking the Date: 
     let today = new Date().toISOString().split('T')[0]; document.querySelector("#calendar").setAttribute('min', today);
 
+
+Issues & Feedback:
+1. Had a hard time trying to center my images properly, I'm still trying to figure that out 
+2. Struggled to understand exactly how to make sure the input of the date was blocked. There wasn't anything in the lessons about it and even though I was given an example I struggled to understand where and how to apply it properly I would've liked more clarity on that. 
+3. My text box on my application didn't show up as the example shown, so I struggled to fix that and it left my text box looking quite small. 
